@@ -1,0 +1,10 @@
+.task-item {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+}
+.card-action {
+  justify-content: space-between;
+  display: flex;
+  width: 120px;
+}
